@@ -1,0 +1,7 @@
+https://github.com/lujji/st-decrypt
+https://github.com/lujji/st-decrypt/blob/master/README.md
+https://lujji.github.io/blog/reverse-engineering-stlink-firmware/
+https://github.com/GCY/JLINK-ARM-OB
+https://github.com/lujji/st-link-dumper
+https://linhkienthuduc.com/huong-dan-nap-firmware-st-link-v2
+https://sudonull.com/post/32259-Making-ST-Link-V21-from-Chinese-ST-Link-V2
